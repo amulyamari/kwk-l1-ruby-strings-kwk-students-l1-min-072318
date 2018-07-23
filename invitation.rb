@@ -1,3 +1,5 @@
-# Code your prompts here!
-
-# Try starting out with puts'ing a string.
+name="Hermione"
+party="Best Halloween Party Ever"
+date= "October 31 at 6pm"
+host="Harry Potter"
+puts="Dear #{name}, You are cordially invited to the Best Halloween Party Ever on October 31 at 6pm. Please RSVP no later than October 30. Sincerely, Harry Potter"
