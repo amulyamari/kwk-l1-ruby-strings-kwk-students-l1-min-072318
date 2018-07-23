@@ -6,4 +6,4 @@ puts="When is it?"
 date=gets.chomp
 puts="Who is the host?"
 host=gets.chomp
-puts="Dear #{name}, You are cordially invited to the Best Halloween Party Ever on October 31 at 6pm. Please RSVP no later than October 30. Sincerely, Harry Potter"
+puts="Dear #{name}, You are cordially invited to #{party} on #{date}. Please RSVP no later than October 30. Sincerely, #{host}"
